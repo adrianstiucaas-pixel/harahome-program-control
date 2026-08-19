@@ -23,7 +23,7 @@ EF-7 Inventory Truth is accepted. The separate Finclub supplier-fulfillment cand
 
 ## Program control
 
-- CURRENT TASK: `NO_TASK_ASSIGNED`
+- CURRENT TASK: End-to-End Business Orchestration, Operational Truth, Live Data Freshness & System-Wide Consolidation R1 — `IN_PROGRESS`
 - LAST COMPLETED TASK: Professional Visual System, Page Cleanup & Human UX R1
 - NEXT PLANNED STAGE: EF-8 Ask HaraHome 2.0 — `NOT STARTED`, not authorized as a current task
 
