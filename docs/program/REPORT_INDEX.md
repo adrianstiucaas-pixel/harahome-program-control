@@ -4,6 +4,7 @@ Updated: 2026-08-20
 
 | Date | Report | Verdict |
 |---|---|---|
+| 2026-08-20 | [WooCommerce Live Read Sync R1](../../reports/2026-08-20-WOOCOMMERCE-LIVE-READ-SYNC-R1.md) | `PASS` |
 | 2026-08-20 | [End-to-End Operational Truth R1](../../reports/2026-08-20-END-TO-END-OPERATIONAL-TRUTH-R1.md) | `PASS` |
 | 2026-08-20 | [Professional Human UX R1](../../reports/professional-human-ux-r1-sanitized.md) | `PASS` |
 | 2026-08-20 | [Menu Consolidation](../../reports/menu-consolidation-sanitized.md) | `PASS` |

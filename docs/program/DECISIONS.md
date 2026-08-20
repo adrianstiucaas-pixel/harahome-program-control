@@ -13,3 +13,6 @@ Updated: 2026-08-20
 9. Dropshipping NIR is accounting-only and must not fabricate physical HaraHome stock.
 10. A monthly dropshipping statement is required.
 11. The target AWB notification direction is email to the warehouse, not a manual WhatsApp workflow.
+12. WooCommerce is the only active live-read sales channel in this stage; every WooCommerce write remains disabled.
+13. eMAG BG is intentionally inactive, while eMAG RO and Trendyol remain pending live activation; eMAG HU is preserved.
+14. Invoice testing cannot start until an isolated UAT numbering capability exists.

@@ -8,12 +8,15 @@ Updated: 2026-08-20
 - Human Information Architecture / Menu Consolidation — `PASS`
 - Professional Human UX R1 — `PASS`
 - End-to-End Business Orchestration & Operational Truth R1 — `PASS`
+- Sales / Orders — WooCommerce Live Read Sync R1 — `PASS`
 
 ## Real remaining gaps
 
 - Complete the real Finclub supplier and courier configuration.
 - Configure disconnected or unconfigured integrations and remediate sources reporting `ERROR` or `STALE`.
 - Keep real email/AWB, ANAF/OAuth, courier, marketplace, payment, social, and other external writes off until separately authorized.
+- Create and validate the Owner's real WooCommerce test order only in a separately authorized task.
+- Add isolated invoice-UAT numbering before any controlled invoice test.
 
 ## Not started
 
