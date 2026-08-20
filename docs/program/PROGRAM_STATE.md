@@ -11,6 +11,7 @@ This document contains sanitized coordination data only.
 - PROFESSIONAL UX = PASS
 - OPERATIONAL TRUTH R1 = PASS
 - WOOCOMMERCE LIVE READ SYNC R1 = PASS
+- WOOCOMMERCE REAL TEST ORDER INGESTION R1 = BLOCKED — exact Product mapping evidence missing for SKU `88888`
 
 Finclub supplier fulfillment is now integrated into the accepted baseline with explicit owner review for NIR. Real supplier/courier configuration and every external write remain off pending separate owner action or authorization.
 
@@ -26,9 +27,10 @@ Finclub supplier fulfillment is now integrated into the accepted baseline with e
 
 ## Program control
 
-- CURRENT TASK: WooCommerce Real Test Order — Ingestion & Order360 Validation R1 — `IN_PROGRESS`
+- CURRENT TASK: `NO_TASK_ASSIGNED`
 - LAST COMPLETED TASK: WooCommerce Sync Action Hotfix R1
-- NEXT: Owner test order validation only after explicit authorization
+- LAST VALIDATION: WooCommerce Real Test Order — Ingestion & Order360 Validation R1 — `BLOCKED`
+- NEXT: Controlled Invoice UAT Preparation — `NOT STARTED`; requires explicit Owner authorization
 - EF-8 Ask HaraHome 2.0: `NOT STARTED` and not authorized as a current task
 
 No subsequent product stage may start without an authorized task.
