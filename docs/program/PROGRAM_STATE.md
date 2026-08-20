@@ -26,7 +26,7 @@ Finclub supplier fulfillment is now integrated into the accepted baseline with e
 
 ## Program control
 
-- CURRENT TASK: `NO_TASK_ASSIGNED`
+- CURRENT TASK: WooCommerce Real Test Order — Ingestion & Order360 Validation R1 — `IN_PROGRESS`
 - LAST COMPLETED TASK: WooCommerce Sync Action Hotfix R1
 - NEXT: Owner test order validation only after explicit authorization
 - EF-8 Ask HaraHome 2.0: `NOT STARTED` and not authorized as a current task
