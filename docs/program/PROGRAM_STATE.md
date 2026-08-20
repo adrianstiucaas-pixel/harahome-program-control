@@ -16,10 +16,10 @@ Finclub supplier fulfillment is now integrated into the accepted baseline with e
 
 ## Live baseline
 
-- LIVE VERSION: `2.15.1-enterprise-woocommerce-live-read-sync-r1`
+- LIVE VERSION: `2.15.2-enterprise-woocommerce-sync-action-hotfix-r1`
 - LIVE SCHEMA: `23016`
 - LIVE PORT: `8765`
-- LIVE PID: `29324` (listener confirmed on 2026-08-20; operational PIDs may change after a controlled restart)
+- LIVE PID: `14216` (listener confirmed on 2026-08-20; operational PIDs may change after a controlled restart)
 - DB INTEGRITY: `integrity_check=ok`
 - FK STATUS: `0` violations
 - SALES CHANNELS: WooCommerce `ACTIVE/CURRENT`; eMAG BG `INACTIVE`; eMAG RO and Trendyol `PENDING`; eMAG HU preserved
@@ -27,7 +27,7 @@ Finclub supplier fulfillment is now integrated into the accepted baseline with e
 ## Program control
 
 - CURRENT TASK: `NO_TASK_ASSIGNED`
-- LAST COMPLETED TASK: Sales / Orders — WooCommerce Live Read Sync R1
+- LAST COMPLETED TASK: WooCommerce Sync Action Hotfix R1
 - NEXT: Owner test order validation only after explicit authorization
 - EF-8 Ask HaraHome 2.0: `NOT STARTED` and not authorized as a current task
 

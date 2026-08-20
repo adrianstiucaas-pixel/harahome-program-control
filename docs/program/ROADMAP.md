@@ -9,6 +9,7 @@ Updated: 2026-08-20
 - Professional Human UX R1 — `PASS`
 - End-to-End Business Orchestration & Operational Truth R1 — `PASS`
 - Sales / Orders — WooCommerce Live Read Sync R1 — `PASS`
+- WooCommerce manual sync action hotfix R1 — `PASS`
 
 ## Real remaining gaps
 
