@@ -25,7 +25,7 @@ Finclub supplier fulfillment is now integrated into the accepted baseline with e
 
 ## Program control
 
-- CURRENT TASK: `NO_TASK_ASSIGNED`
+- CURRENT TASK: Sales / Orders — WooCommerce Live Read Sync R1 — `IN_PROGRESS`
 - LAST COMPLETED TASK: End-to-End Business Orchestration, Operational Truth, Live Data Freshness & System-Wide Consolidation R1
 - NEXT: determine only from the real configuration and freshness gaps recorded in the final report
 - EF-8 Ask HaraHome 2.0: `NOT STARTED` and not authorized as a current task
