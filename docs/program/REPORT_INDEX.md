@@ -4,6 +4,7 @@ Updated: 2026-08-20
 
 | Date | Report | Verdict |
 |---|---|---|
+| 2026-08-20 | [Generic Supplier Fulfillment Onboarding R1](../../reports/2026-08-20-GENERIC-SUPPLIER-FULFILLMENT-ONBOARDING-R1.md) | `PASS_WITH_CONFIGURATION_REQUIRED` |
 | 2026-08-20 | [WooCommerce Real Test Order R1](../../reports/2026-08-20-WOOCOMMERCE-REAL-TEST-ORDER-R1.md) | `BLOCKED` |
 | 2026-08-20 | [WooCommerce Sync Action Hotfix R1](../../reports/2026-08-20-WOOCOMMERCE-SYNC-ACTION-HOTFIX-R1.md) | `PASS` |
 | 2026-08-20 | [WooCommerce Live Read Sync R1](../../reports/2026-08-20-WOOCOMMERCE-LIVE-READ-SYNC-R1.md) | `PASS` |
